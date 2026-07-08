@@ -1,0 +1,39 @@
+[
+  {
+    "id": "niepotrzebne-blanty-mrc07ryb",
+    "title": "Niepotrzebne Blanty",
+    "artist": "bvdvm",
+    "type": "Singiel",
+    "year": 2026,
+    "coverPath": "covers/niepotrzebne-blanty-mrc07ryb.png",
+    "discs": [
+      {
+        "discNo": 1,
+        "tracks": [
+          {
+            "id": "niepotrzebne-blanty-mrc07ryb-d1-t1",
+            "no": 1,
+            "title": "Niepotrzebne Blanty",
+            "duration": 160,
+            "plays": 0,
+            "file": "audio/niepotrzebne-blanty-mrc07ryb/1/niepotrzebne-blanty-mrc07ryb-d1-t1.mp3",
+            "story": [
+              {
+                "title": "To już znasz!",
+                "text": "Pierwszy utwór, który dla Ciebie nagrałem."
+              },
+              {
+                "title": "Zmiana koncepcji",
+                "text": "Na początku był bardziej alternatywny-popowy ale potem moje zamiłowanie do hip-hopowych brzmień wzięło górę i chyba Tobie też to bardziej przypadło do gustu"
+              },
+              {
+                "title": "Refren",
+                "text": "Refren wynuciłem sobie w tramwaju wracając do Ciebie i tak zaczęła się praca nad tym utworem"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
