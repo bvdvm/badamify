@@ -252,7 +252,7 @@
   },
   {
     "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt",
-    "title": "Cześć, Przyniosłem Tobie Kwiaty",
+    "title": "Cześć, Przyniosłem Tobie Kwiaty (Deluxe)",
     "artist": "Adam B",
     "type": "Album",
     "year": 2026,
@@ -262,11 +262,11 @@
         "discNo": 1,
         "tracks": [
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t1",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t1",
             "title": "Z Tobą",
             "duration": 152,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t1-rmrca6mmv.wav",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t1.wav",
             "story": [
               {
                 "title": "Pierwotna wersja",
@@ -284,11 +284,11 @@
             "no": 1
           },
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t2",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t2",
             "title": "Nowa Perspektywa",
             "duration": 245,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t2-rmrcaefjf.mp3",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t2.mp3",
             "story": [
               {
                 "title": "Ewolucja",
@@ -306,11 +306,11 @@
             "no": 2
           },
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t3",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t3",
             "title": "Kwiaty",
             "duration": 129,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t3-rmrcaekfu.mp3",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t3.mp3",
             "story": [
               {
                 "title": "No sorry...",
@@ -324,11 +324,11 @@
             "no": 3
           },
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t4",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t4",
             "title": "Niepotrzebne Blanty",
             "duration": 160,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t4.mp3",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t4.mp3",
             "story": [
               {
                 "title": "Pierwszy z wielu",
@@ -338,11 +338,11 @@
             "no": 4
           },
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t5",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t5",
             "title": "Jak Zwariować To Tylko Tak",
             "duration": 226,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t5-rmrcaep16.mp3",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t5.mp3",
             "story": [
               {
                 "title": "Shawn Mendes nie pozywaj mnie prooooooszę :(((((((",
@@ -360,11 +360,11 @@
             "no": 5
           },
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t6",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t6",
             "title": "Czasem Cię Nudzę",
             "duration": 159,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t6-rmrcaetvw.mp3",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t6.mp3",
             "story": [
               {
                 "title": "Przypadek",
@@ -382,11 +382,11 @@
             "no": 6
           },
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t7",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t7",
             "title": "Takie Same",
             "duration": 130,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t7-rmrcaey5t.mp3",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t7.mp3",
             "story": [
               {
                 "title": "Założenie",
@@ -400,11 +400,11 @@
             "no": 7
           },
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t8",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t8",
             "title": "Absolutne Kino",
             "duration": 214,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t8-rmrcafyk4.mp3",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t8.mp3",
             "story": [
               {
                 "title": "Pomysł",
@@ -418,11 +418,11 @@
             "no": 8
           },
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t9",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t9",
             "title": "Za Proste",
             "duration": 176,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t9-rmrcag3tj.mp3",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t9.mp3",
             "story": [
               {
                 "title": "Drugi utwór",
@@ -436,11 +436,11 @@
             "no": 9
           },
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t10",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t10",
             "title": "Chcę Z Tobą Się Zestarzeć",
             "duration": 241,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t10-rmrcag7t0.mp3",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t10.mp3",
             "story": [
               {
                 "title": "Pierwotny tytuł",
@@ -454,11 +454,11 @@
             "no": 10
           },
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t11",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t11",
             "title": "Leci Nowy Drake",
             "duration": 207,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t11-rmrcagce4.mp3",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t11.mp3",
             "story": [
               {
                 "title": "Nocny autobus i nowy album Drake'a",
@@ -472,11 +472,11 @@
             "no": 11
           },
           {
-            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t12",
+            "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t12",
             "title": "Nigdy Więcej Bez Ciebie",
             "duration": 237,
             "plays": 0,
-            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/1/czesc-przynios-em-tobie-kwiaty-mrc33klt-d1-t12-rmrcaggci.mp3",
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu/1/czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t12.mp3",
             "story": [
               {
                 "title": "Instrumental",
@@ -496,6 +496,20 @@
               }
             ],
             "no": 12
+          }
+        ]
+      },
+      {
+        "discNo": 2,
+        "tracks": [
+          {
+            "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcapmii0",
+            "title": "Niepotrzebne Blanty (Demo)",
+            "duration": 209,
+            "plays": 0,
+            "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/2/czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcapmii0.wav",
+            "story": [],
+            "no": 1
           }
         ]
       }
