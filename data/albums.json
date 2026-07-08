@@ -1,7 +1,7 @@
 [
   {
     "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu",
-    "title": "Cześć, Przyniosłem Tobie Kwiaty (kopia)",
+    "title": "Cześć, Przyniosłem Tobie Kwiaty",
     "artist": "Adam B",
     "type": "Album",
     "year": 2026,
@@ -12,7 +12,6 @@
         "tracks": [
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t1",
-            "no": 1,
             "title": "Z Tobą",
             "duration": 152,
             "plays": 0,
@@ -30,11 +29,11 @@
                 "title": "Założenie",
                 "text": "Od początku tworzenia tego utworu wiedziałem, że będzie to utwór na otwarcie albumu. Wydaję mi się, że spełnia swoją rolę. Lubię ten klimatyczny sampel chóru."
               }
-            ]
+            ],
+            "no": 1
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t2",
-            "no": 2,
             "title": "Nowa Perspektywa",
             "duration": 245,
             "plays": 0,
@@ -52,11 +51,11 @@
                 "title": "Outro",
                 "text": "Końcówka utworu to początek mini historyjki, która dzieje się na przestrzeni całego albumu - czyli moja wizyta w kwiaciarni. Zwróć uwagę na to o jakich kwiatach jest mowa przez cały album a co jest na okładce ;) + jest to fajne przejście do kolejnego utworu."
               }
-            ]
+            ],
+            "no": 2
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t3",
-            "no": 3,
             "title": "Kwiaty",
             "duration": 129,
             "plays": 0,
@@ -70,11 +69,11 @@
                 "title": "Zmiana nastawienia",
                 "text": "Na początku nie lubiłem tego utworu i byłem o krok od wyrzucenia go za albumu. Myślałem, że jest za krótki i trochę bez sensu ale po czasie stwierdziłem, że w takiej formie opowiada to co ma opowiadać i fajnie wprowadza kwiatowy motyw na albumie."
               }
-            ]
+            ],
+            "no": 3
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t4",
-            "no": 4,
             "title": "Niepotrzebne Blanty",
             "duration": 160,
             "plays": 0,
@@ -84,11 +83,11 @@
                 "title": "Pierwszy z wielu",
                 "text": "Jak już wiesz, to pierwszy utwór, który dla Ciebie napisałem i nagrałem. Musiał się znaleźć na tym albumie."
               }
-            ]
+            ],
+            "no": 4
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t5",
-            "no": 5,
             "title": "Jak Zwariować To Tylko Tak",
             "duration": 226,
             "plays": 0,
@@ -106,11 +105,11 @@
                 "title": "Oczy",
                 "text": "Czy już wspominałem, że masz piękne oczy?"
               }
-            ]
+            ],
+            "no": 5
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t6",
-            "no": 6,
             "title": "Czasem Cię Nudzę",
             "duration": 159,
             "plays": 0,
@@ -128,11 +127,11 @@
                 "title": "Inspiracja",
                 "text": "Inspiracją do tego utworu była płyta \"Piss In The Wind\" od Jojiego (btw genialna nazwa haha). Perkusja skojarzyła mi się z jego muzyką i tak poszło."
               }
-            ]
+            ],
+            "no": 6
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t7",
-            "no": 7,
             "title": "Takie Same",
             "duration": 130,
             "plays": 0,
@@ -146,11 +145,11 @@
                 "title": "Niebotyczne liczby",
                 "text": "Lubię to jak wchodzi zwrotka - ma fajny vibe i wersy z chodzeniem po głowie są chyba dosyć oklepane ale wciąż catchy.."
               }
-            ]
+            ],
+            "no": 7
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t8",
-            "no": 8,
             "title": "Absolutne Kino",
             "duration": 214,
             "plays": 0,
@@ -164,11 +163,11 @@
                 "title": "Wyzwanie",
                 "text": "Wynotuj sobie jakie nawiązania do kina, filmów i seriali znajdujesz w tekście - trochę ich jest ;)"
               }
-            ]
+            ],
+            "no": 8
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t9",
-            "no": 9,
             "title": "Za Proste",
             "duration": 176,
             "plays": 0,
@@ -182,11 +181,11 @@
                 "title": "Trochę o uciekaniu",
                 "text": "Inspiracją były nasze rozmowy o uciekaniu, na szczęście nie uciekłaś to możemy gdzieś uciec razem <3"
               }
-            ]
+            ],
+            "no": 9
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t10",
-            "no": 10,
             "title": "Chcę Z Tobą Się Zestarzeć",
             "duration": 241,
             "plays": 0,
@@ -200,11 +199,11 @@
                 "title": "Inny gatunek",
                 "text": "To taki utwór, który jest wyjściem z mojej muzycznej strefy komfortu. Zupełnie inny gatunek - trochę bardziej spokojnie, balladowo."
               }
-            ]
+            ],
+            "no": 10
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t11",
-            "no": 11,
             "title": "Leci Nowy Drake",
             "duration": 207,
             "plays": 0,
@@ -218,11 +217,11 @@
                 "title": "Historia",
                 "text": "Historia ta jest mieszanką różnych przeżyć z tych moich nocnych podróży."
               }
-            ]
+            ],
+            "no": 11
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-kopia-mrcaivsu-d1-t12",
-            "no": 12,
             "title": "Nigdy Więcej Bez Ciebie",
             "duration": 237,
             "plays": 0,
@@ -244,7 +243,8 @@
                 "title": "To by było na tyle",
                 "text": "I to tyle z tego skromnego albumu, mam nadzieję, że chociaż trochę dowiozłem :)"
               }
-            ]
+            ],
+            "no": 12
           }
         ]
       }
