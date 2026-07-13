@@ -1,8 +1,8 @@
 [
   {
     "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt",
-    "title": "Cześć, Przyniosłem Tobie Kwiaty (Deluxe)",
-    "artist": "Adam B",
+    "title": "Cześć, Przyniosłem Tobie Kwiaty",
+    "artist": "B.Adam",
     "type": "Album",
     "year": 2026,
     "coverPath": "covers/czesc-przynios-em-tobie-kwiaty-mrc33klt.png",
@@ -175,7 +175,7 @@
             "story": [
               {
                 "title": "Drugi utwór",
-                "text": "To utwór, który powstał jako drugi jakiś czas po \"Niepotrzebnych Blantach\". Tekst pisałem w autobusie z uczelni na przełomie maja i czerwca. "
+                "text": "To utwór, który powstał jako drugi jakiś czas po \"Niepotrzebnych Blantach\". Tekst pisałem w autobusie z uczelni na przełomie kwietnia i maja."
               },
               {
                 "title": "Trochę o uciekaniu",
@@ -211,11 +211,15 @@
             "story": [
               {
                 "title": "Nocny autobus i nowy album Drake'a",
-                "text": "Tekst pisałem podczas kilku przejazdów nocnym autobusem słuchając nowego albumu Drake'a a konkretnie utworu \"Firm Firends\". Urzekł mnie ten spokojny bit dający miejsce na opowiedzenie jakieś historii w tym przypadku powrotu nocnym autobusem do domu."
+                "text": "Tekst pisałem podczas kilku przejazdów nocnym autobusem słuchając nowego albumu Drake'a a konkretnie utworu \"Firm Friends\". Urzekł mnie ten spokojny bit dający miejsce na opowiedzenie jakieś historii w tym przypadku powrotu nocnym autobusem do domu."
               },
               {
                 "title": "Historia",
                 "text": "Historia ta jest mieszanką różnych przeżyć z tych moich nocnych podróży."
+              },
+              {
+                "title": "34 a nie 32",
+                "text": "W tekście jest 32 przystanki a w istocie jest ich na tej trasie 34. Pomyliłem się pisząc tekst a zmiana na 34 brzmiała nienaturalnie. Uznajmy, że narrator jest tak zmęczony podróżą że zapomniał od dwóch przystankach ;)"
               }
             ],
             "no": 11
@@ -253,7 +257,7 @@
         "tracks": [
           {
             "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb3x180",
-            "title": "Z Tobą (Demo)",
+            "title": "Z Tobą pt 2",
             "duration": 175,
             "plays": 0,
             "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/2/czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb3x180.wav",
@@ -262,7 +266,7 @@
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb43xm1",
-            "title": "Niepotrzebne Blanty (Demo)",
+            "title": "Niepotrzebne Blanty pt 2",
             "duration": 209,
             "plays": 0,
             "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/2/czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb43xm1.wav",
@@ -271,7 +275,7 @@
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb4dha2",
-            "title": "To Nie Jest Hip-Hop (Bonus Track)",
+            "title": "To Nie Jest Hip-Hop",
             "duration": 149,
             "plays": 0,
             "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/2/czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb4dha2.wav",
@@ -280,7 +284,7 @@
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb4jpy3",
-            "title": "Za Długie Głosówki (Bonus Track)",
+            "title": "Za Długie Głosówki",
             "duration": 182,
             "plays": 0,
             "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/2/czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb4jpy3.mp3",
@@ -289,7 +293,7 @@
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb4mpq4",
-            "title": "Need U (Demo Bonus Track)",
+            "title": "Need U (demo)",
             "duration": 155,
             "plays": 0,
             "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/2/czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb4mpq4.wav",
@@ -298,7 +302,7 @@
           },
           {
             "id": "czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb4siv5",
-            "title": "Jak Zwariować To Tylko Tak (Demo)",
+            "title": "Jak Zwariować To Tylko Tak pt 2",
             "duration": 215,
             "plays": 0,
             "file": "audio/czesc-przynios-em-tobie-kwiaty-mrc33klt/2/czesc-przynios-em-tobie-kwiaty-mrc33klt-d2-xmrcb4siv5-rmrcbecrd.mp3",
